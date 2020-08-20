@@ -102,6 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:antor.mahmud96@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/antor-mahmud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MahmudAntor"
@@ -115,6 +118,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/antor-mahmud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MahmudAntor"
