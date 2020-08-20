@@ -12,7 +12,7 @@ My name is Antor and I'm a Software Engineer at [SSD-TECH](https://ssd-tech.io/)
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="antor-mahmud"><a class="LI-simple-link" href='https://bd.linkedin.com/in/antor-mahmud?trk=profile-badge'>Antor Mahmud</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="antor-mahmud"><a class="LI-simple-link" href='https://bd.linkedin.com/in/antor-mahmud?trk=profile-badge'>Antor Mahmud</a></div>
 
 <br>
 
