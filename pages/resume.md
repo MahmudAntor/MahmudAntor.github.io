@@ -32,7 +32,7 @@ classes: wide
 }
 </style>
 
-<button class="button" onclick="location.href='/assets/images/Resume.pdf'" type="button">See and Download the PDF version</button>
+<button class="button" onclick="location.href='/assets/images/resume1.pdf'" type="button">See and Download the PDF version</button>
 
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
@@ -53,6 +53,7 @@ classes: wide
   - Integrated voice biometric authentication
   - Managing CallHandler Application in telecommunication
   - managing Signaling gateway in telecommunication. 
+  - Reaserch & Development
 
 # Technical stack
 
@@ -60,6 +61,7 @@ classes: wide
   - C, C++, Python, PHP
 - Frequent user:
   - SQL
+  - Java, Node.js
   - HTML, CSS, bootstrap
 - Used in several projects:
   - Flutter

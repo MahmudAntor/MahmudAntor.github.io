@@ -17,6 +17,7 @@ My name is Antor and I'm a Software Engineer at [SSD-TECH](https://ssd-tech.io/)
 <br>
 
 I have a B.Sc. in CSE from [CUET](https://www.cuet.ac.bd/) and I graduated in 2019. My technical interests are:
+- Web Development 
 - Machine Learning
 - Deep Learning
 - Data Science
