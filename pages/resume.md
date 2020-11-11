@@ -46,6 +46,8 @@ classes: wide
 | Degree | University | Start date | End date | GPA |
 | --- | --- | --- | --- | --- |
 | Bachelor of Science in CSE | Chittagong University of Engineering and Technology | 2014 | 2019 | 3.21/4 |
+| HSC in Scinece | Govt Science College | 2012 | 2014 | Golden GPA - 5 |
+| SSC in Scinece | A.K High School & College | - | 2012 | Golden GPA - 5 |
 
 # Experience
 
@@ -53,7 +55,7 @@ classes: wide
   - Integrated voice biometric authentication
   - Managing CallHandler Application in telecommunication
   - managing Signaling gateway in telecommunication. 
-  - Reaserch & Development
+  - Research & Development
 
 # Technical stack
 
